@@ -1,0 +1,4 @@
+repository "Space Invaders 2025-06-21_19-00-48/Space Invaders@1375095915674@cloud"
+  path "/"
+    br "/main"
+    co "/main"
