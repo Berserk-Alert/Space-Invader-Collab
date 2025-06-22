@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 996f164a89765974caed534a4a85ae99
+guid: dca5eefc51ce9ea4fae72335dc47168a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1079074958101141471
-    second: player bullet_0
+      213: -5998831901934461003
+    second: pika-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player bullet_0
+      name: pika-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 0
-        width: 64
-        height: 64
+        width: 486
+        height: 504
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd753ab05f4a9fe00800000000000000
-      internalID: 1079074958101141471
+      spriteID: 5bf5ae91b2edfbca0800000000000000
+      internalID: -5998831901934461003
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      player bullet_0: 1079074958101141471
+      pika-removebg-preview_0: -5998831901934461003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
