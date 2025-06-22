@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6982966428265311518}
   - component: {fileID: 1226153244528966708}
   - component: {fileID: 561821838508303238}
+  - component: {fileID: -7722370851992309876}
   m_Layer: 0
   m_Name: Invade_Base
   m_TagString: Untagged
@@ -134,3 +135,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.0001, y: 0.0001}
   m_EdgeRadius: 0
+--- !u!114 &-7722370851992309876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995711361987380166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35c3f9be9315f714a821504660190048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animationSprites: []
+  animationTime: 1
