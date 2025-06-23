@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6982966428265311518}
   - component: {fileID: 1226153244528966708}
   - component: {fileID: 561821838508303238}
-  - component: {fileID: -7722370851992309876}
+  - component: {fileID: 3169294950565972154}
   m_Layer: 0
   m_Name: Invade_Base
   m_TagString: Untagged
@@ -135,7 +135,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.0001, y: 0.0001}
   m_EdgeRadius: 0
---- !u!114 &-7722370851992309876
+--- !u!114 &3169294950565972154
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
