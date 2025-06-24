@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5232861321010561813
+--- !u!1001 &4065060833619854402
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,11 +10,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Size.x
-      value: 3.78
+      value: 4.36
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Size.y
-      value: 4.56
+      value: 4.61
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -26,19 +26,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 3.78
+      value: 4.36
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.y
-      value: 4.56
+      value: 4.61
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 3.78
+      value: 4.36
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 4.56
+      value: 4.61
       objectReference: {fileID: 0}
     - target: {fileID: 561821838508303238, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
@@ -46,32 +46,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1226153244528966708, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Size.x
-      value: 3.78
+      value: 4.36
       objectReference: {fileID: 0}
     - target: {fileID: 1226153244528966708, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Size.y
-      value: 4.56
+      value: 4.61
       objectReference: {fileID: 0}
     - target: {fileID: 1226153244528966708, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 9002156780735637133, guid: 45d1a73c30571b84f81575d694c2ce15, type: 3}
+      objectReference: {fileID: -460499123596612453, guid: eff8564a252a72c49846f2d106ed3bbc, type: 3}
     - target: {fileID: 1226153244528966708, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1995711361987380166, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_Name
-      value: Invader_03
+      value: Invade_05
       objectReference: {fileID: 0}
-    - target: {fileID: 3169294950565972154, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
-      propertyPath: animationSprites.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3169294950565972154, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
-      propertyPath: 'animationSprites.Array.data[0]'
-      value: 
-      objectReference: {fileID: 9002156780735637133, guid: 45d1a73c30571b84f81575d694c2ce15, type: 3}
     - target: {fileID: 6982966428265311518, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -82,11 +74,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6982966428265311518, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.06592
+      value: -8.23218
       objectReference: {fileID: 0}
     - target: {fileID: 6982966428265311518, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.0115
+      value: -4.25751
       objectReference: {fileID: 0}
     - target: {fileID: 6982966428265311518, guid: a3bc84c597c6c7d45b9bb631c4727993, type: 3}
       propertyPath: m_LocalPosition.z
